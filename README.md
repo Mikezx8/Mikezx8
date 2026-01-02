@@ -71,25 +71,23 @@ Major operational deployment framework
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mikezx8&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mikezx8&theme=dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=FFFFFF&currStreakLabel=58A6FF" alt="GitHub Streak" />
-</div>
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mikezx8&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mikezx8&theme=dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=FFFFFF&currStreakLabel=58A6FF&sideNums=FFFFFF&sideLabels=C9D1D9&dates=C9D1D9" alt="GitHub Streak" />
+</p>
 
-<div align="center">
-  <img width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikezx8&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
-</div>
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikezx8&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8&hide=html,css" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=mikezx8&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&layout=compact" alt="Coding Activity" />
+</p>
 
 <br>
 
-<!-- Activity Graph Section - Updated for your profile -->
 ## 📈 Recent Activity
-<div align="center">
-  
-<!-- Use your OWN activity graph link. Replace 'mikezx8' in the URL below with your username if needed. -->
-![Mike's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mikezx8&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true&custom_title=My%20Recent%20Contribution%20Graph)
 
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mikezx8&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true&custom_title=My%20Recent%20Contribution%20Graph" alt="Activity Graph" />
+</p>
 
 <br>
 
